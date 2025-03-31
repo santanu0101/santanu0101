@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Nodejs, Express, MongoDB, etc.**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/santanu-raj/](https://www.linkedin.com/in/santanu-raj/)
+- 👨‍💻 All of my projects are available at [https://santanu-raj.vercel.app/](https://santanu-raj.vercel.app/)
 
 - 💬 Ask me about **DSA, Database**
 
